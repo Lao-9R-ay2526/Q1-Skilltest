@@ -1,0 +1,71 @@
+
+
+
+
+body{
+background-image: url(https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+font-family:Lucida Fax;
+background-position:center;
+min-height: 100vh;
+margin:0;
+color:navy;
+}
+
+
+h4{
+	color:navy;
+	text-decoration: underline;
+	text-align:center;
+	opacity:1;
+	font-weight:700;
+}
+p{
+
+	color:navy;
+	text-align:left;
+	opacity:1;
+	font-weight:700;
+}
+
+form{
+	background-color:antiquewhite;
+	margin:0 auto;
+	padding:20px;
+	width:700px;
+	height:1350px;
+	opacity: 85%;
+	border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+
+label{
+	font-weight:700;
+}
+
+legend{
+	opacity:1;
+	font-weight:700;
+}
+
+select{
+	width:100px;
+}
+
+h1{ color:navy;
+	text-align:center;
+	font-family:Lucida Fax;
+}	
+	
+ h2{
+ 	text-align:center;
+ }
+
+h6{
+
+}
+
+
+}
